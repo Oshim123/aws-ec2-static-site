@@ -20,3 +20,7 @@ This project launches an EC2 instance, installs Nginx, and hosts a static websit
 
 
 
+Project source: https://roadmap.sh/projects/ec2-instance
+
+
+
